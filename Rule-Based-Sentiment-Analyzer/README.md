@@ -23,3 +23,20 @@ Simulates early-stage AI text labeling systems used in NLP training pipelines.
 Total Reviews: 15  
 Positive Reviews: 8  
 Negative Reviews: 7
+
+## Limitations
+
+Does not understand context
+
+Cannot detect sarcasm
+
+Based only on keyword matching
+
+Example: Notice this review:
+
+"Not good at all"
+
+It contains the word "good".
+
+Your system will classify it as positive ❌
+But logically it is negative.
