@@ -1,35 +1,31 @@
-# AI Career Journey 🚀
+# AI Project Portfolio 🚀
 
-This repository documents my journey into Artificial Intelligence and Data roles.
-
-## 🔹 Skills Being Built
-- Python Programming
-- Data Processing
-- Text Classification
-- Logical Problem Solving
-- AI Simulation Projects
+This repository showcases hands-on AI-focused projects built while transitioning into AI Data & Operations roles.
 
 ---
 
-## 📂 Projects
+## 🔹 Projects
 
-### ✅ Day 01 – Python Basics
-- Variables
-- Input handling
-- Conditional statements
-- AI Candidate Evaluator mini project
+### 1️⃣ AI Candidate Evaluator
+A rule-based evaluation system that classifies candidates based on age and Python skill rating.
 
-### ✅ Day 02 – Sentiment Analyzer
+**Concepts Used:**
+- Conditional Logic
+- Input Handling
+- Decision Systems
+
+---
+
+### 2️⃣ Rule-Based Sentiment Analyzer
+A simple sentiment classification system that analyzes text reviews and categorizes them as positive or negative.
+
+**Concepts Used:**
 - Lists
 - Loops
-- Rule-based text classification
-- Basic sentiment counting system
+- String Processing
+- Keyword-Based Classification
 
 ---
 
-## 🎯 Goal
-To transition into AI Data Trainer / Annotation Specialist / AI Operations roles through hands-on project building.
-
----
-
-More projects coming daily.
+## 🎯 Career Objective
+Transitioning into AI Data Trainer, Annotation Specialist, and AI Operations roles through project-based skill development.
