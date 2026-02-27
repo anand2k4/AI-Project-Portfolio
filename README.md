@@ -1,31 +1,30 @@
 # AI Project Portfolio 🚀
 
-This repository showcases hands-on AI-focused projects built while transitioning into AI Data & Operations roles.
+## About Me
+Aspiring AI Data Specialist transitioning into AI Operations, Data Annotation, and AI Training roles through hands-on project development.
 
 ---
 
-## 🔹 Projects
+## 🔹 Featured Projects
 
 ### 1️⃣ AI Candidate Evaluator
-A rule-based evaluation system that classifies candidates based on age and Python skill rating.
-
-**Concepts Used:**
-- Conditional Logic
-- Input Handling
-- Decision Systems
-
----
+A rule-based candidate screening simulation.
+Demonstrates logical decision systems used in automated recruitment tools.
 
 ### 2️⃣ Rule-Based Sentiment Analyzer
-A simple sentiment classification system that analyzes text reviews and categorizes them as positive or negative.
-
-**Concepts Used:**
-- Lists
-- Loops
-- String Processing
-- Keyword-Based Classification
+A keyword-based NLP simulation for text classification.
+Demonstrates foundational AI data labeling concepts.
 
 ---
 
-## 🎯 Career Objective
-Transitioning into AI Data Trainer, Annotation Specialist, and AI Operations roles through project-based skill development.
+## 🛠 Technical Skills
+- Python (Beginner → Intermediate)
+- Logical Decision Systems
+- Text Processing
+- Rule-Based Classification
+- Data Structuring
+
+---
+
+## 📌 Current Focus
+Building daily AI-focused mini systems and progressing toward ML-based implementations.
